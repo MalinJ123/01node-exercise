@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "fotboll": "node fotboll.js",
+    "guess": "node guess.js",
     "start": "node index.js",
-    "type": "module",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -13,5 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "type": "module"
+
 }
