@@ -72,14 +72,6 @@ if (input === '1') {
 		saveBooks(file, books);
 	 }
 	 
-
-
-
-
-
-
-
-
 async function loadBooks(filename) {
 
 
